@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162447,100:00d4ff&height=220&section=header&text=Muhamad%20Abdul%20Gani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=16&animation=twinkling" alt="Header Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Muhamad Abdul Gani — Full-Stack Web Developer" width="100%" />
 </p>
 
 <!-- ANIMATED TERMINAL TYPING -->
@@ -153,7 +153,18 @@ const developer = {
   </a>
 </p>
 
-<!-- ANIMATED FOOTER WAVE -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:162447,100:0d1117&height=120&section=footer&animation=twinkling" alt="Footer Banner" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+    <defs>
+      <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#00d4ff"/>
+        <stop offset="50%"  stop-color="#162447"/>
+        <stop offset="100%" stop-color="#0d1117"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="80" fill="#0d1117"/>
+    <path d="M0,0 Q300,40 600,25 Q900,10 1200,35 L1200,80 L0,80 Z" fill="url(#footer-grad)" opacity="0.5"/>
+    <rect x="0" y="0" width="1200" height="3" fill="url(#footer-grad)" opacity="0.6"/>
+  </svg>
 </p>
