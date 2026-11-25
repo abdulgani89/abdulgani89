@@ -6,7 +6,7 @@
 <!-- ANIMATED TERMINAL TYPING -->
 <p align="center">
   <a href="https://abdulgani.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%3E+whoami+%3A%3A+Muhamad+Abdul+Gani+(Ghani);%3E+role+%3A%3A+Full-Stack+Web+%7C+AI+%26+Computer+Vision;%3E+stack+%3A%3A+Next.js+%E2%80%A2+Django+%E2%80%A2+Laravel+%E2%80%A2+Python;%3E+campus+%3A%3A+PTIK+Universitas+Negeri+Semarang+(UNNES);%3E+status+%3A%3A+Open+to+Internship+%26+Collaboration+%F0%9F%9A%80" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%3E+whoami+%3A%3A+Muhamad+Abdul+Gani+(Ghani);%3E+role+%3A%3A+Full-Stack+Web+%7C+AI+%26+Computer+Vision;%3E+stack+%3A%3A+Next.js+%E2%80%A2+Django+%E2%80%A2+Laravel+%E2%80%A2+Python;%3E+campus+%3A%3A+PTIK+Universitas+Negeri+Semarang+(UNNES);%3E+hobbies+%3A%3A+Volleyball+%F0%9F%8F%90+%7C+Soccer+%E2%9A%BD+%7C+Coding+%F0%9F%92%BB;%3E+status+%3A%3A+Open+to+Internship+%26+Collaboration+%F0%9F%9A%80" alt="Typing Terminal" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdulgani89&label=PROFILE+VIEWS&color=162447&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `>_` `cat profile.ts`
 
@@ -51,12 +51,13 @@ const developer = {
   ],
 
   currentlyLearning : ["Docker", "CI/CD Pipelines", "Deep Learning (YOLOv8)"],
+  hobbies           : ["Volleyball 🏐", "Soccer ⚽", "Coding 💻"],
   openTo            : "Internship · Freelance · Collaborative Tech Projects",
   funFact           : "I debug better at night ☕",
 };
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `>_` Tech Stack & Arsenal
 
@@ -86,7 +87,7 @@ const developer = {
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `>_` Proyek Unggulan
 
@@ -103,7 +104,7 @@ const developer = {
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `>_` GitHub Telemetry & Activity
 
@@ -121,19 +122,17 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulgani89&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
-### `>_` Contribution Snake 🐍
+### `>_` ⚽ Soccer × Volleyball × Code 🏐
+
+> *"Where the pitch meets the court, and both meet the terminal."*
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulgani89/abdulgani89/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulgani89/abdulgani89/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulgani89/abdulgani89/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="./assets/sports-anim.svg" width="900" alt="Soccer to Volleyball Animation" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `>_` Let's Connect!
 
